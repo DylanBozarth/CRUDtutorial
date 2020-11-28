@@ -5,4 +5,3 @@ const aaa = require('./people.js')
 console.log(aaa)
 
 
-15:14
